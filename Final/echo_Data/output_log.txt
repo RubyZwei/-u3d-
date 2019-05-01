@@ -1,0 +1,80 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 910M (ID=0x129a)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+    Driver:   25.21.14.1967
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.462 seconds
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.960700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2560 -> priority: 1 
+  Thread -> id: 2948 -> priority: 1 
+Socket Connect Succ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 910M (ID=0x129a)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+    Driver:   25.21.14.1967
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity 3d\聊天室\echo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.069 seconds
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity 3d\聊天室\echo_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.942700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 36f0 -> priority: 1 
+  Thread -> id: 32f0 -> priority: 1 
+Socket Connect Succ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket Send Succ 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket Send Succ 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket Send Succ 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket Send Succ 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,0 +1,8 @@
+D:\Unity 3d\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+D:\Unity 3d\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+D:\Unity 3d\EchoServer\EchoServer\obj\x86\Debug\EchoServer.exe
+D:\Unity 3d\EchoServer\EchoServer\obj\x86\Debug\EchoServer.pdb
+D:\Unity 3d\Echo\EchoServer\EchoServer\obj\x86\Debug\EchoServer.exe
+D:\Unity 3d\Echo\EchoServer\EchoServer\obj\x86\Debug\EchoServer.pdb
+D:\Unity 3d\EchoServer\EchoServer\obj\x86\Debug\EchoServer.csprojAssemblyReference.cache
+D:\Unity 3d\EchoServer\EchoServer\obj\x86\Debug\EchoServer.csproj.CoreCompileInputs.cache
